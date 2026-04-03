@@ -32,6 +32,8 @@ public class UserServiceImpl implements UserService{
 		//From Github Remote
 		
 		//From Github local 
+
+		//From Github Remote Pull 2
 		return userRepository.findAll();
 	}
 
