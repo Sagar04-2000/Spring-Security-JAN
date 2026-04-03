@@ -30,6 +30,8 @@ public class UserServiceImpl implements UserService{
 	public List<User> getUsers() {
 		// TODO Auto-generated method stub
 		//From Github Remote
+		
+		//From Github local 
 		return userRepository.findAll();
 	}
 
